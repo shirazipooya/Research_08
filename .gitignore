@@ -37,6 +37,6 @@ rsconnect/
 .Rproj.user
 
 # Folder
-data/raw_data/
-data/rds_data/
+data/csv_raw_data/
+data/rds_raw_data/
 data/shapefile/
